@@ -4,7 +4,7 @@ The completed version of our monsters rolodex project!
 
 ## Live Project Link
 
-[Crwn-clothing-Project](https://properties-marketplace.netlify.app/)
+[Crwn-clothing-Project](https://crwn-clothing-abby.netlify.app/)
 
 # How to fork and clone
 
